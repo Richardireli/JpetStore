@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,Encoding,SampleCount,ErrorCount,Hostname,IdleTime,Connect
+1754167073158,34,HTTP Request1,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: No such host is known (blazedemo.com),Thread Group 1-1,text,false,,2528,0,1,1,https://blazedemo.com/,0,UTF-8,1,1,Emeka-Richardson-Echefu,0,34
+1754167073196,0,HTTP Request2,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: blazedemo.com,Thread Group 1-1,text,false,,2163,0,1,1,https://blazedemo.com/,0,UTF-8,1,1,Emeka-Richardson-Echefu,0,0
+1754167073199,0,HTTP Request3,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: blazedemo.com,Thread Group 1-1,text,false,,2163,0,1,1,https://blazedemo.com/,0,UTF-8,1,1,Emeka-Richardson-Echefu,0,0
+1754167073201,0,HTTP Request4,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: blazedemo.com,Thread Group 1-1,text,false,,2163,0,1,1,https://blazedemo.com/,0,UTF-8,1,1,Emeka-Richardson-Echefu,0,0
